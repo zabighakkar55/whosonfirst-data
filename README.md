@@ -500,8 +500,7 @@ We've add a separate document called [README.KNOWN.KNOWNS.md](README.KNOWN.KNOWN
 * [whosonfirst-data-admin-pf](https://github.com/whosonfirst-data/whosonfirst-data-admin-pf) - French Polynesia
 * [whosonfirst-data-admin-pg](https://github.com/whosonfirst-data/whosonfirst-data-admin-pg) - Papua New Guinea
 * [whosonfirst-data-admin-ph](https://github.com/whosonfirst-data/whosonfirst-data-admin-ph) - Philippines
-* [whosonfirst-data-admin-pk](https://github.com/whosonfirst-data/whosonfirst-data-admin-pk) - Pakistan
-* [whosonfirst-data-admin-pl](https://github.com/whosonfirst-data/whosonfirst-data-admin-pl) - Poland
+* [Mapzen [whosonfirst-data-admin-pl](https://github.com/whosonfirst-data/whosonfirst-data-admin-pl) - Poland
 * [whosonfirst-data-admin-pm](https://github.com/whosonfirst-data/whosonfirst-data-admin-pm) - Saint Pierre and Miquelon
 * [whosonfirst-data-admin-pn](https://github.com/whosonfirst-data/whosonfirst-data-admin-pn) - Pitcairn
 * [whosonfirst-data-admin-pr](https://github.com/whosonfirst-data/whosonfirst-data-admin-pr) - Puerto Rico
